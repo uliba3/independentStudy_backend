@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+google-generativeai
+python-dotenv
+numpy
+selenium
+beautifulsoup4
+pgvector
+webdriver-manager
+pdfminer.six
+undetected-chromedriver
